@@ -7,4 +7,4 @@
 |![apple1](png/apple1.png)|![apple2](png/apple2.png)|![ubt](png/ubt.png)|
 
 日历订阅url：
-https://github.com/abcd58758/dangrishuxing/releases/download/latest/shuxing.ics
+https://github.com/yan-cat/dangrishuxing/releases/download/latest/shuxing.ics
